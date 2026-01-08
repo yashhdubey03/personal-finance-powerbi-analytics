@@ -45,6 +45,8 @@ The interactive version of this dashboard has been published on Power BI Service
 
 The published report allows full interaction with filters and visuals as intended in the Power BI environment.
 
+---
+
 ## Analytical Focus
 
 Key analytical themes explored in the dashboard include:
