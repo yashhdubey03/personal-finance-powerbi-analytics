@@ -73,10 +73,10 @@ Power BI’s interaction model is leveraged to enable flexible and intuitive dat
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](screenshots/01_dashboard_overview.png)
+![Dashboard Overview](screenshots/01_dashboard_overview.jpeg)
 
 ### Data Model & Analytical View
-![Data Model](screenshots/02_data_model.png)
+![Data Model](screenshots/02_data_model.jpeg)
 
 Additional visuals and breakdowns are available in the `screenshots` folder.
 
