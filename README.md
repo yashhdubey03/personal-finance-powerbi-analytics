@@ -1,7 +1,5 @@
 # personal-finance-analytics-powerbi
 
-# Personal Finance Insights (Power BI)
-
 Managing personal finances is not just about tracking numbers, but about understanding patterns, trends, and trade-offs over time.  
 This project was created to analyze personal income, expenses, and savings using Power BI, with a strong focus on monthly and yearly financial behavior rather than static summaries.
 
