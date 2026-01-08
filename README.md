@@ -42,6 +42,7 @@ The emphasis is on clarity, interpretability, and analytical depth rather than d
 The interactive version of this dashboard has been published on Power BI Service and can be accessed using the link below:
 
 **View Live Report:**  [🔗](https://app.powerbi.com/view?r=eyJrIjoiZmYyNTViNjEtOWMxYy00NDI1LWFkZDUtZmIyYzI3ODYxNjczIiwidCI6ImFlY2ZkNDQ2LThlZGEtNDA1YS1hNzk0LTdkNzk0MGFmMDRkZiJ9)
+
 The published report allows full interaction with filters and visuals as intended in the Power BI environment.
 
 ## Analytical Focus
